@@ -1,0 +1,103 @@
+{
+  "name": "CumbiaKaraoke.com",
+  "short_name": "CumbiaKaraoke.com",
+  "lang": "es",
+  "theme_color": "#a64d79",
+  "background_color": "#464646",
+  "display": "standalone",
+  "Scope": "https://www.cumbiakaraoke.com/?m=1",
+  "start_url": "https://www.cumbiakaraoke.com/?m=1",
+  "description": "APP Sitio Sitio con música tropical. Cumbia Acapella y Cumbia Karaoke! En CumbiaKaraoke.com Puedes DESCARGAR TODO GRATIS!",
+  "icons": [
+   {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s16/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+   {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s32/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+   {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s57/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+	{
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s60/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s72/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+	{
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s76/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s96/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+	{
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s114/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+	{
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s120/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s128/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s144/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s152/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+	{
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s180/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s192/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s384/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+	{
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s800/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "800x800",
+      "type": "image/png"
+    },
+	{
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s1024/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-CjXo3PWlElc/Xp-M_d8ydGI/AAAAAAAAI2I/VjuBGKttGxsX-pvufAx0sl5C_mVgNCBlACNcBGAsYHQ/s512/ICONO-CumbiaKaraoke.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  }
